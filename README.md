@@ -1,7 +1,5 @@
 # Zomato / Swiggy Review Analyser — Ollama + Qwen2.5:3b
 
-This is AI School of India Module 1, Video 4 project.
-
 ## Run locally
 
 Install Ollama from https://ollama.com
